@@ -1,1 +1,1 @@
-# MADMO course on Sberbank
+# Sberbank Machine Learning Course
